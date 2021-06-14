@@ -18,11 +18,11 @@ Here are some ideas to get you started:
   
   - 🔭 I'm currently working on **Data Science and Web Development**
   - 🌱 I’m currently learning **JavaScript, Django and Sklearn.**
-  - 🤝 My LinkedIn Profile @ <a onclick="window.open(this.href,'_blank');return false;" href="https://www.linkedin.com/in/souvik-ghosh-05/">Souvik-Ghosh-05</a>
+  - 🤝 My LinkedIn Profile @ <a href="https://www.linkedin.com/in/souvik-ghosh-05">Souvik-Ghosh-05</a>
   - 💬 Ask me about **C, C++, Python, Data Structures and Algorithms.**
   - 📫 How to reach me **souvikghosh872@gmail.com**
   - ⚡ Fun fact **Wish me on 26th October 😄**
-    
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
