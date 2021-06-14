@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/django.png" alt="django" width="40" height="40"/> </a>
   
-<a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=souvikghosh05&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Souvik's github stats" /> </a>
+<a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=souvikghosh05&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=191919&text_color=191919" alt="Souvik's github stats" /> </a>
  
-<a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh05&layout=compact&theme=material-palenight" alt="Souvik's top used languages" /> </a>
+<a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh05&layout=compact&theme=radical" alt="Souvik's top used languages" /> </a>
