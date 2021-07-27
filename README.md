@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
   - 🔭 I'm currently working on **Data Science and Web Development**
   - 🌱 I’m currently learning **JavaScript, Django and Sklearn.**
-  - 🤝 My LinkedIn Profile @ <a href="https://www.linkedin.com/in/souvik-ghosh-05">Souvik-Ghosh-05</a>
+  - 🤝 My LinkedIn Profile &nbsp;&nbsp;<a href="https://www.linkedin.com/in/souvik-ghosh-05/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="65"/>
   - 💬 Ask me about **C, C++, Python, Data Structures and Algorithms.**
   - 📫 How to reach me **souvikghosh872@gmail.com**
   - ⚡ Fun fact **Wish me on 26th October 😄**
