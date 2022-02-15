@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
-<h3 align="center">I'm passionate developer and Machine Learning enthusiast from India.</h3
+<h3 align="center">I'm passionate developer and DevOps-Cloud enthusiast from India.</h3>
   
   - 🔭 I'm currently working on **Data Science and Web Development**
   - 🌱 I’m currently learning **JavaScript, Django and Sklearn.**
