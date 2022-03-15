@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Science and Web development
-- 🌱 I’m currently learning JavaScript, Django and Scikit-Learn
+- 🔭 I’m currently working on Backend Engineering and Microservices
+- 🌱 I’m currently learning JavaScript, Django and Shell Scripting
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,15 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
-<h3 align="center">I'm passionate developer and DevOps-Cloud enthusiast from India.</h3>
+<h3 align="center">I'm a passionate developer and DevOps-Cloud enthusiast from India.</h3>
   
-  - 🔭 I'm currently working on **Data Science and Web Development**
-  - 🌱 I’m currently learning **JavaScript, Django and Sklearn.**
+  - 🔭 I'm interested in **Backend Engineering and Microservices**.
+  - 🌱 I’m currently learning **JavaScript, Django and Shell Scripting**.
   - 🤝 My LinkedIn Profile &nbsp;&nbsp;<a href="https://www.linkedin.com/in/souvik-ghosh-05/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="65"/>
   - 💬 Ask me about **C, C++, Python, Data Structures and Algorithms.**
   - 📫 How to reach me **souvikghosh872@gmail.com**
   - ⚡ Fun fact **Wish me on 26th October 😄**
 
+# Open Source Contributor
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -37,7 +38,12 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/django.png" alt="django" width="40" height="40"/> </a>
-  
-<a> <img align="left" src="https://github-readme-stats.vercel.app/api?username=souvikghosh05&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=191919&text_color=191919" alt="Souvik's github stats" /> </a>
+<a href="https://linuxfoundation.org/" target="_blank"> <img src="https://img.icons8.com/color/344/linux--v2.png" alt="linux" width="40" height="40"/> </a>
+
+![Souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=souvikghosh05&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=191919&text_color=191919)
  
-<a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh05&layout=compact&theme=radical" alt="Souvik's top used languages" /> </a>
+![Souvik's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh05&layout=compact&theme=radical)
+
+[![Souvik's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souvikghosh05&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+[![Souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvikghosh05&theme=react-dark)](https://github.com/souvikghosh05/github-readme-activity-graph)
