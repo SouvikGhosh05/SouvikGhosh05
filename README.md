@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   - 📫 How to reach me **souvikghosh872@gmail.com**
   - ⚡ Fun fact **Wish me on 26th October 😄**
 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/souvikghosh05/count.svg?align=center)  
 # Open Source Contributor
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
