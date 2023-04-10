@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
-<h3 align="center">I'm a passionate developer and DevOps-Cloud enthusiast from India.</h3>
+<h3 align="center">I'm a DevOps Engineer and Cloud enthusiast from India.</h3>
   
-  - 🔭 I'm interested in **Backend Engineering and Microservices**.
+  - 🔭 I'm interested in **DevOps and Microservices**.
   - 🌱 I’m currently learning **JavaScript, Django and Shell Scripting**.
   - 🤝 My LinkedIn Profile &nbsp;&nbsp;<a href="https://www.linkedin.com/in/souvik-ghosh-05/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="65"/>
-  - 💬 Ask me about **C, C++, Python, Data Structures and Algorithms.**
+  - 💬 Ask me about **Docker, Kubernetes and Python**
   - 📫 How to reach me **souvikghosh872@gmail.com**
   - ⚡ Fun fact **Wish me on 26th October 😄**
 
