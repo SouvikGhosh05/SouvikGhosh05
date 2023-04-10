@@ -48,5 +48,3 @@ Here are some ideas to get you started:
 ![Souvik's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikghosh05&layout=compact&theme=radical)
 
 [![Souvik's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souvikghosh05&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-[![Souvik's github activity graph](https://activity-graph.herokuapp.com/graph?username=souvikghosh05&theme=react-dark)](https://github.com/souvikghosh05/github-readme-activity-graph)
